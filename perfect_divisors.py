@@ -12,5 +12,6 @@ def Solve(N):
         return "YES"
     return "NO"
 
+
 if __name__ == '__main__':
    print(Solve(6))

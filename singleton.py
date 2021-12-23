@@ -18,7 +18,7 @@ s = Singleton()
 print(s)
 
 s = Singleton.getInstance()
-print(s)
+print(s) 
 
 s = Singleton.getInstance()
 print(s)
